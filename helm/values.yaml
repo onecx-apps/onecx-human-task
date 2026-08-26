@@ -1,0 +1,14 @@
+deployment:
+  svc: true
+  bff: true
+  ui: true
+  n8nAdapter: true
+
+product:
+  info:
+    data:
+      description: "OneCX Human-task"
+      imageUrl: ""
+      iconName: "lock"
+      displayName: "OneCX Human-task"
+      basePath: "/human-task"
