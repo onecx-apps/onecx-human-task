@@ -4,7 +4,7 @@ dependencies:
   version: 0.4.0
 - name: onecx-human-task-svc
   repository: oci://ghcr.io/onecx-apps/charts
-  version: 0.0.0-rc.58
+  version: 0.0.0-rc.59
 - name: onecx-human-task-bff
   repository: oci://ghcr.io/onecx-apps/charts
   version: 0.0.0-rc.33
@@ -14,5 +14,5 @@ dependencies:
 - name: onecx-human-task-n8n-adapter
   repository: oci://ghcr.io/onecx-apps/charts
   version: 0.0.0-rc.8
-digest: sha256:cb183bd8cb9f8015bed264039bb0694fee76bc3ed3e41be2cb47b81079aa2be4
-generated: "2026-10-08T09:22:34.157235338Z"
+digest: sha256:3749805350c26b48d0c4ed755de0017c2587cb80ec640697fc7b8e6dc0b0c783
+generated: "2026-10-08T10:07:10.488529637Z"
