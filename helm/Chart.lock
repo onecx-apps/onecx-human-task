@@ -13,6 +13,6 @@ dependencies:
   version: 0.0.0-rc.6
 - name: onecx-human-task-n8n-adapter
   repository: oci://ghcr.io/onecx-apps/charts
-  version: 0.0.0-rc.8
-digest: sha256:adc2e4263b819de7357bdd1349140142d1dba066347dd2cdea09605eaa345025
-generated: "2026-10-12T07:30:09.104405427Z"
+  version: 0.0.0-rc.9
+digest: sha256:0864d8e2f04fc94b9d162c2daba8cfa2dd3b3e00d68038c6ffaee396a3507d5b
+generated: "2026-10-13T12:34:44.521842683Z"
