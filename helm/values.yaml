@@ -7,8 +7,8 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Human-task"
+      description: "OneCX Human Task"
       imageUrl: ""
       iconName: "lock"
-      displayName: "OneCX Human-task"
+      displayName: "OneCX Human Task"
       basePath: "/human-task"
